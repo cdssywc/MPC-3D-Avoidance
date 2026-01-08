@@ -1,0 +1,15 @@
+# 3D MPC Trajectory Tracking with Obstacle Avoidance
+# ================================================
+
+# 核心依赖
+numpy>=1.21.0
+scipy>=1.7.0
+
+# 可选GPU加速
+torch>=2.0.0
+
+# 3D可视化
+vtk>=9.2.0
+
+# 可选: 用于性能监控
+psutil>=5.9.0
