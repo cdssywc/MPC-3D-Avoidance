@@ -58,7 +58,7 @@ Python: 3.8 或更高版本
 方法1: 使用pip（推荐）
 bash
 # 克隆项目
-git clone https://github.com/yourusername/mpc-3d-avoidance.git
+git clone https://github.com/cdssywc/mpc-3d-avoidance.git
 cd mpc-3d-avoidance
 
 # 创建虚拟环境（可选但推荐）
