@@ -9,6 +9,7 @@ Real-time 3D trajectory tracking and obstacle avoidance using Model Predictive C
 <img width="809" height="307" alt="d2beab24a2c133c3d98091696990bdc" src="https://github.com/user-attachments/assets/d7856589-d434-416b-8bc2-206d04115881" />
 <img width="497" height="226" alt="416d9d1a4713aba0f8d4b120dedf36d" src="https://github.com/user-attachments/assets/28f97449-21e9-40ed-8bf4-b5c905b87310" />
 <img width="725" height="517" alt="b9678639c72354313f6a33c6a29ca78" src="https://github.com/user-attachments/assets/66500bd9-976f-4a2c-9c46-b199eaa5d26d" />
+
 版本说明
 
 mpc_0.py无卡尔曼滤波处理
