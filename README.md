@@ -1,10 +1,7 @@
 # MPC-3D-Avoidance
 Real-time 3D trajectory tracking and obstacle avoidance using Model Predictive Control (MPC) with GPU acceleration
 这是一个基于模型预测控制（MPC） 的3D轨迹跟踪与避障演示程序。程序实现了在动态障碍物环境中的自主导航，集成了卡尔曼滤波器进行障碍物轨迹预测，支持GPU加速，并提供了实时的3D可视化界面。
-版本说明
-mpc_0.py无卡尔曼滤波处理
-mpc_1.py有卡尔曼滤波处理，预测障碍物的下一时刻运动轨迹
-mpc_2.py有卡尔曼滤波处理，预测障碍物的下一时刻运动轨迹，加入qt5参数设置
+
 <img width="1282" height="815" alt="f672a47c32d03519faa39b0892e2497" src="https://github.com/user-attachments/assets/cdc267f4-23f2-4e13-ae4d-c243c0f0def8" />
 <img width="1272" height="880" alt="8e8121afb130627dc5b3e6f0283b822" src="https://github.com/user-attachments/assets/1b643eaf-0d0f-4bc3-8230-f0206125f646" />
 <img width="1886" height="1106" alt="5973ed33dd9982b5848a2562046daa1" src="https://github.com/user-attachments/assets/17509fa0-d079-4695-83f4-65cd1d2c97bd" />
@@ -12,6 +9,13 @@ mpc_2.py有卡尔曼滤波处理，预测障碍物的下一时刻运动轨迹，
 <img width="809" height="307" alt="d2beab24a2c133c3d98091696990bdc" src="https://github.com/user-attachments/assets/d7856589-d434-416b-8bc2-206d04115881" />
 <img width="497" height="226" alt="416d9d1a4713aba0f8d4b120dedf36d" src="https://github.com/user-attachments/assets/28f97449-21e9-40ed-8bf4-b5c905b87310" />
 <img width="725" height="517" alt="b9678639c72354313f6a33c6a29ca78" src="https://github.com/user-attachments/assets/66500bd9-976f-4a2c-9c46-b199eaa5d26d" />
+版本说明
+
+mpc_0.py无卡尔曼滤波处理
+
+mpc_1.py有卡尔曼滤波处理，预测障碍物的下一时刻运动轨迹
+
+mpc_2.py有卡尔曼滤波处理，预测障碍物的下一时刻运动轨迹，加入qt5参数设置
 
 核心特性
 🎯 MPC控制器 - 实时轨迹跟踪与避障优化
